@@ -9,7 +9,7 @@
   <a href="https://www.facebook.com/profile.php?id=100078846849166">
     <img src="./image/facebook.png" alt="Facebook" />
   </a>
-  <a href="https://www.instagram.com/petro.1993/">
+  <a href="https://www.instagram.com/petro_semochko/">
     <img src="./image/instagram.png" alt="Instagram" />
   </a>
 </div>
